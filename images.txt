@@ -11,4 +11,5 @@
 #docker.elastic.co/kibana/kibana:7.17.3
 #quay.io/fluentd_elasticsearch/fluentd:v3.4.0
 #docker.io/bitnami/prometheus-adapter:v0.9.1
-bitnami/prometheus-operator:latest
+#bitnami/prometheus-operator:latest
+prom/node-exporter
