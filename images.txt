@@ -13,4 +13,5 @@
 #docker.io/bitnami/prometheus-adapter:v0.9.1
 #bitnami/prometheus-operator:latest
 #prom/node-exporter
-prom/prometheus:v3.2.1
+#prom/prometheus:v3.2.1
+prom/prometheus:v2.55.1
