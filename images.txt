@@ -17,5 +17,6 @@
 #prom/prometheus:v2.55.1
 #grafana/grafana:11.5.2
 #prom/alertmanager:v0.28.1
-nginx
-centos
+#nginx
+#centos
+docker-registry-ui
