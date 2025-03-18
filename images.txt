@@ -19,4 +19,4 @@
 #prom/alertmanager:v0.28.1
 #nginx
 #centos
-docker-registry-ui
+joxit/docker-registry-ui
