@@ -36,4 +36,9 @@
 #registry.k8s.io/metrics-server/metrics-server:v0.7.2
 
 #ceph
-quay.io/ceph/ceph:v19
+#quay.io/ceph/ceph:v19
+
+#jenkins
+okteto/golang.1.17
+docker:latest
+bitnami/kubectl:1.32.2
