@@ -39,6 +39,9 @@
 #quay.io/ceph/ceph:v19
 
 #jenkins
-okteto/golang.1.17
-docker:latest
-bitnami/kubectl:1.32.2
+#okteto/golang.1.17
+#docker:latest
+#bitnami/kubectl:1.32.2
+#operator
+gcr.io/distroless/static:nonroot
+docker.io/golang:1.23
