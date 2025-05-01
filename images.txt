@@ -45,3 +45,11 @@
 #operator
 gcr.io/distroless/static:nonroot
 docker.io/golang:1.23
+
+#20250501
+prom/prometheus:v2.37.6
+prom/alertmanager:v0.25.0
+google/cadvisor:latest
+prom/node-exporter:v1.5.0
+grafana/grafana:9.4.3
+
