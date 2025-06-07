@@ -54,6 +54,7 @@ docker.io/golang:1.23
 #grafana/grafana:9.4.3
 
 #20250605
-quay.io/argoproj/argocd:v3.0.5
-ghcr.io/dexidp/dex:v2.41.1
-redis:7.2.7-alpine
+#quay.io/argoproj/argocd:v3.0.5
+#ghcr.io/dexidp/dex:v2.41.1
+#redis:7.2.7-alpine
+bitnami/etcd:3.5.10-debian-11-r2
