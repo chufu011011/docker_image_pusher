@@ -59,4 +59,5 @@ docker.io/golang:1.23
 #redis:7.2.7-alpine
 #bitnami/etcd:3.5.10-debian-11-r2
 #quay.io/external_storage/nfs-client-provisioner:v3.1.0-k8s1.11
-bellsoft/liberica-openjdk-debian:17.0.11-cds
+#bellsoft/liberica-openjdk-debian:17.0.11-cds
+huanheart/gochat:v1
